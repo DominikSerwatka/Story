@@ -1,0 +1,4 @@
+secrets.txt
+
+#This is comment
+#*.txt # all file that have .txt are ignore
